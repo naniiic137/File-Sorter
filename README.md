@@ -91,4 +91,4 @@ test_main.py   # unit tests (unittest)
 
 ## License
 
-License: not chosen yet.
+© 2026 Hamza Ben Ismail. All rights reserved.
